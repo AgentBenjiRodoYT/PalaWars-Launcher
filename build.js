@@ -21,7 +21,7 @@ builder.build({
         appId: 'helioslauncher',
         productName: 'Helios Launcher',
         artifactName: '${productName}-setup-${version}.${ext}',
-        copyright: 'Copyright © 2018-2020 Daniel Scalzi',
+        copyright: 'Copyright © 2018-2021 PalaWars',
         directories: {
             buildResources: 'build',
             output: 'dist'

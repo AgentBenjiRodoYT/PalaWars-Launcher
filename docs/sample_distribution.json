@@ -11,16 +11,16 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "PalaWars-1.12.2",
+            "name": "PalaWars",
+            "description": "Serveur PalaWars.",
+            "icon": "https://palawars.webnode.fr/_files/200000005-ae715ae718/450/logo%20(1).png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "paly.palawars.minesr.com",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "PalaWars",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
@@ -426,11 +426,11 @@
         },
         {
             "id": "WesterosCraftTest-1.11.2",
-            "name": "WesterosCraft Test Server",
-            "description": "Main testing server. Experimental changes are live here.",
+            "name": "Palawars Test",
+            "description": "Test",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com:4444",
+            "address": "paly.palawars.minesr.com",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Test Server",
@@ -840,11 +840,11 @@
         },
         {
             "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
+            "name": "Palawars",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "4.2.1",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "paly.palawars.minesr.com",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Test Server",
@@ -1271,11 +1271,11 @@
         },
         {
             "id": "WesterosCraftTest-1.13.2",
-            "name": "WesterosCraft 1.13.2 Test Server",
+            "name": "Palawars",
             "description": "Tests for our version change to 1.13.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "5.0.0",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "paly.palawars.minesr.com",
             "minecraftVersion": "1.13.2",
             "discord": {
                 "shortId": "1.13.2 Test Server",

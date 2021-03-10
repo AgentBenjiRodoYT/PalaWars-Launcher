@@ -15,13 +15,13 @@ The distribution index is written in JSON. The general format of the index is as
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "Example_Server",
-            "name": "WesterosCraft Example Client",
+            "id": "PalaWars",
+            "name": "PalaWars",
             "description": "Example WesterosCraft server. Connect for fun!",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "icon": "https://palawars.webnode.fr/_files/200000005-ae715ae718/450/logo%20(1).png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
-            "minecraftVersion": "1.11.2",
+            "address": "paly.palawars.minesr.com",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Example",
                 "largeImageText": "WesterosCraft Example Server",
